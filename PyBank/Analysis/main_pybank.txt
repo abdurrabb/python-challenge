@@ -1,0 +1,13 @@
+FINANCIAL ANALYSIS
+------------------------------
+TOTAL MONTHS: 86
+NET PROFIT/LOSS: $38,382,578 
+------------------------------
+AVERAGE CHANGE IN PROFIT/LOSS: $-2,315.12 
+------------------------------
+GREATEST INCREASE IN PROFIT/LOSS: $1,926,159 
+GREATEST INCREASE DATE: Feb-2012 
+------------------------------
+GREATEST DECREASE IN PROFIT/LOSS: $-2,196,167 
+GREATEST DECREASE DATE: Sep-2013 
+------------------------------
